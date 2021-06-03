@@ -643,6 +643,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 027b6642e62897f499a980189e6ea93b, type: 2}
     - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
+      propertyPath: _SonMort
+      value: 
+      objectReference: {fileID: 8300000, guid: e6a589f501885164da7f356729363dfc, type: 3}
+    - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
       propertyPath: _moveLeft
       value: 2
       objectReference: {fileID: 0}
@@ -5003,6 +5007,10 @@ PrefabInstance:
       value: 47
       objectReference: {fileID: 0}
     - target: {fileID: 4227640084239285831, guid: ee6b1ce0faa94234f9a29df7bd08b393, type: 3}
+      propertyPath: _resourcesCounter
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4227640084239285831, guid: ee6b1ce0faa94234f9a29df7bd08b393, type: 3}
       propertyPath: _terrainEffectList.Array.size
       value: 1
       objectReference: {fileID: 0}
@@ -5576,6 +5584,10 @@ PrefabInstance:
       propertyPath: _unitSO
       value: 
       objectReference: {fileID: 11400000, guid: 4fcebd2951208f644a6bd5a2f33bd1cf, type: 2}
+    - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
+      propertyPath: _SonMort
+      value: 
+      objectReference: {fileID: 8300000, guid: de2caf5e444715b4bb4b1e5442723be2, type: 3}
     - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
       propertyPath: _SonAttaque
       value: 
@@ -9533,6 +9545,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: e84e6fafca7888445a130c8a0c687c0c, type: 2}
     - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
+      propertyPath: _SonMort
+      value: 
+      objectReference: {fileID: 8300000, guid: e6a589f501885164da7f356729363dfc, type: 3}
+    - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
       propertyPath: _moveLeft
       value: 4
       objectReference: {fileID: 0}
@@ -9939,6 +9955,10 @@ PrefabInstance:
       propertyPath: _unitSO
       value: 
       objectReference: {fileID: 11400000, guid: 027b6642e62897f499a980189e6ea93b, type: 2}
+    - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
+      propertyPath: _SonMort
+      value: 
+      objectReference: {fileID: 8300000, guid: e6a589f501885164da7f356729363dfc, type: 3}
     - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
       propertyPath: _moveLeft
       value: 2
@@ -14265,6 +14285,10 @@ PrefabInstance:
       value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 4227640084239285831, guid: ee6b1ce0faa94234f9a29df7bd08b393, type: 3}
+      propertyPath: _resourcesCounter
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4227640084239285831, guid: ee6b1ce0faa94234f9a29df7bd08b393, type: 3}
       propertyPath: _terrainEffectList.Array.size
       value: 1
       objectReference: {fileID: 0}
@@ -15171,6 +15195,10 @@ PrefabInstance:
       propertyPath: _unitSO
       value: 
       objectReference: {fileID: 11400000, guid: 7173ed9b7b1850146be19f7f93e5d1cf, type: 2}
+    - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
+      propertyPath: _SonMort
+      value: 
+      objectReference: {fileID: 8300000, guid: de2caf5e444715b4bb4b1e5442723be2, type: 3}
     - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
       propertyPath: _moveLeft
       value: 2
@@ -16545,6 +16573,10 @@ PrefabInstance:
     - target: {fileID: 4227640084239285831, guid: ee6b1ce0faa94234f9a29df7bd08b393, type: 3}
       propertyPath: _tileId
       value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4227640084239285831, guid: ee6b1ce0faa94234f9a29df7bd08b393, type: 3}
+      propertyPath: _resourcesCounter
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4227640084239285831, guid: ee6b1ce0faa94234f9a29df7bd08b393, type: 3}
       propertyPath: _terrainEffectList.Array.size
@@ -18938,6 +18970,10 @@ PrefabInstance:
       propertyPath: _unitSO
       value: 
       objectReference: {fileID: 11400000, guid: f72ff7b5677cc9148bb3b3755b0d2a3f, type: 2}
+    - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
+      propertyPath: _SonMort
+      value: 
+      objectReference: {fileID: 8300000, guid: de2caf5e444715b4bb4b1e5442723be2, type: 3}
     - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
       propertyPath: _moveLeft
       value: 2
@@ -21522,6 +21558,10 @@ PrefabInstance:
       propertyPath: _unitSO
       value: 
       objectReference: {fileID: 11400000, guid: 027b6642e62897f499a980189e6ea93b, type: 2}
+    - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
+      propertyPath: _SonMort
+      value: 
+      objectReference: {fileID: 8300000, guid: e6a589f501885164da7f356729363dfc, type: 3}
     - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
       propertyPath: _moveLeft
       value: 2
@@ -24491,6 +24531,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 3ffbae100a18029468cb6bf2264a2584, type: 2}
     - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
+      propertyPath: _SonMort
+      value: 
+      objectReference: {fileID: 8300000, guid: de2caf5e444715b4bb4b1e5442723be2, type: 3}
+    - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
       propertyPath: _moveLeft
       value: 4
       objectReference: {fileID: 0}
@@ -24976,6 +25020,10 @@ PrefabInstance:
       propertyPath: _unitSO
       value: 
       objectReference: {fileID: 11400000, guid: fe448621f882f9b438befcc88b39383e, type: 2}
+    - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
+      propertyPath: _SonMort
+      value: 
+      objectReference: {fileID: 8300000, guid: de2caf5e444715b4bb4b1e5442723be2, type: 3}
     - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
       propertyPath: _moveLeft
       value: 2
@@ -29247,6 +29295,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 6f60aa8602728104f85461dabca1fc74, type: 2}
     - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
+      propertyPath: _SonMort
+      value: 
+      objectReference: {fileID: 8300000, guid: de2caf5e444715b4bb4b1e5442723be2, type: 3}
+    - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
       propertyPath: _SonAttaque
       value: 
       objectReference: {fileID: 8300000, guid: 850059d4d397f244b97b116830397891, type: 3}
@@ -30540,6 +30592,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: e6aac298c74067e489df5c5f0f92c094, type: 2}
     - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
+      propertyPath: _SonMort
+      value: 
+      objectReference: {fileID: 8300000, guid: de2caf5e444715b4bb4b1e5442723be2, type: 3}
+    - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
       propertyPath: _SonAttaque
       value: 
       objectReference: {fileID: 8300000, guid: c9fd24da1040f6b4f81699cefc2a5678, type: 3}
@@ -30900,6 +30956,10 @@ PrefabInstance:
       propertyPath: _unitSO
       value: 
       objectReference: {fileID: 11400000, guid: 7173ed9b7b1850146be19f7f93e5d1cf, type: 2}
+    - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
+      propertyPath: _SonMort
+      value: 
+      objectReference: {fileID: 8300000, guid: de2caf5e444715b4bb4b1e5442723be2, type: 3}
     - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
       propertyPath: _moveLeft
       value: 2
@@ -36077,6 +36137,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 47dbd4f330669a04da8115eb85ea067c, type: 2}
     - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
+      propertyPath: _SonMort
+      value: 
+      objectReference: {fileID: 8300000, guid: e6a589f501885164da7f356729363dfc, type: 3}
+    - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
       propertyPath: _SonAttaque
       value: 
       objectReference: {fileID: 8300000, guid: 672ed031b3907f14a9b1d2f3e52f71b8, type: 3}
@@ -37133,6 +37197,10 @@ PrefabInstance:
       propertyPath: _unitSO
       value: 
       objectReference: {fileID: 11400000, guid: 921d296d0f576044786b2b9df111c7b8, type: 2}
+    - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
+      propertyPath: _SonMort
+      value: 
+      objectReference: {fileID: 8300000, guid: de2caf5e444715b4bb4b1e5442723be2, type: 3}
     - target: {fileID: 4707557024412655209, guid: 58e09c580f7ab16419499ddb20657f81, type: 3}
       propertyPath: _moveLeft
       value: 2
