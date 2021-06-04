@@ -13,7 +13,12 @@ MonoBehaviour:
   m_Name: Ordnance
   m_EditorClassIdentifier: 
   UnitName: Ordnance QF25 Pounder
-  Description: 
+  Description: "L'ordnance est une artillerie de barrage puissante capable de d\xE9verser
+    une pluie d'obus sur le champ de bataille et ainsi emp\xEAcher tout mouvement
+    ennemi dans la zone de tir. Particuli\xE8rement utile lors du premier si\xE8ge
+    d'El Alamein, Montgomery en aurait fait parfois le centre de sa strat\xE9gie
+    tant les Allemands pr\xE9f\xE8rent perdre du temps \xE0 contourner ses zones
+    de tir plut\xF4t que de se voir expos\xE9s. "
   typeUnite: 2
   LifeMax: 2
   ShieldMax: 0

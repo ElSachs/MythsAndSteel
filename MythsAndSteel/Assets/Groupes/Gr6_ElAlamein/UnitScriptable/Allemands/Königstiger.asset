@@ -13,7 +13,10 @@ MonoBehaviour:
   m_Name: "K\xF6nigstiger"
   m_EditorClassIdentifier: 
   UnitName: "K\xF6nigstiger"
-  Description: 
+  Description: "Cr\xE9\xE9 sur la base du ch\xE2ssis du Panzer IV et sous l'ordonance
+    de Rommel en personne, le K\xF6nigstiger est un char \xE0 la fois performant
+    et rapide. De plus, il dispose d'une puissance anti personnelle et antichar tout
+    \xE0 fait respectable pour un char cr\xE9\xE9 \xE0 la va vite.  "
   typeUnite: 1
   LifeMax: 3
   ShieldMax: 0

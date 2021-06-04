@@ -13,7 +13,12 @@ MonoBehaviour:
   m_Name: Scorpio
   m_EditorClassIdentifier: 
   UnitName: Project Scorpio
-  Description: 
+  Description: "Reconnu pour son g\xE9nie strat\xE9gique, le g\xE9n\xE9ral Bernard
+    Montgomery proposa aux industries Rolls Royce d'inventer un mod\xE8le de m\xE9cha
+    capable de contrer pr\xE9cis\xE9ment les techniques de la Blitzkrieg des Afrika
+    Korps. Alliant puissance d\xE9fensive et efficacit\xE9 au corps-\xE0-corps, ce
+    m\xE9cha dispose de la capacit\xE9 d'attraper les unit\xE9s ennemies pour les
+    forces \xE0 tomber dans des pi\xE8ges. "
   typeUnite: 5
   LifeMax: 5
   ShieldMax: 0

@@ -13,7 +13,13 @@ MonoBehaviour:
   m_Name: Desert Rats
   m_EditorClassIdentifier: 
   UnitName: Desert rats
-  Description: 
+  Description: "Lors de la longue et \xE9reintante campagne d'Afrique du Nord, plusieurs
+    noms c\xE9l\xE8bres se sont forg\xE9s, empreints d'h\xE9ro\xEFsme et de gloire.
+    Parmi eux, la 7e division blind\xE9e britannique est rest\xE9e c\xE9l\xE8bre
+    sous le nom de \"Desert's Rats\".  Lors de la Bataille d'El Alamein, leurs chars
+    sont \xE9quip\xE9s d'un grand canon \xE9lectromagn\xE9tique capable de percer
+    le blindage des chars pour frapper les troupes profitant de leur blindage pour
+    se cacher derri\xE8re."
   typeUnite: 1
   LifeMax: 3
   ShieldMax: 0

@@ -13,7 +13,14 @@ MonoBehaviour:
   m_Name: Montgommery
   m_EditorClassIdentifier: 
   UnitName: Bernard Montgommery
-  Description: 
+  Description: "Lors de la conqu\xEAte de l'Egypte par l'Empire Britannique, d'anciens
+    tombeaux furent mis \xE0 jour \xE0 des fins arch\xE9ologiques et historiques.
+    Dans l'un d'eux se trouvait un couple de Serpopards, des chim\xE8res mythiques
+    de l'antiquit\xE9.  Apr\xE8s les avoir soign\xE9 gr\xE2ce \xE0 des injections
+    d'orgone, l'arm\xE9e britannique \xE9voqua la possibilit\xE9 de les employer
+    sur le champ de bataille mais sans succ\xE8s. Ce n'est que lorsque les troupes
+    du Reich se rapproch\xE8rent de leur patrie que les Serpopards se mirent \xE9trangement
+    \xE0 se battre pour prot\xE9ger leur pays, semblant comprendre toute la situation. "
   typeUnite: 4
   LifeMax: 4
   ShieldMax: 0

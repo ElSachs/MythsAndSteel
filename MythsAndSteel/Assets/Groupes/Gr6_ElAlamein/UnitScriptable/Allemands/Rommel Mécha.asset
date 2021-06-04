@@ -13,7 +13,13 @@ MonoBehaviour:
   m_Name: "Rommel M\xE9cha"
   m_EditorClassIdentifier: 
   UnitName: "M\xE9cha Rommel"
-  Description: 
+  Description: "N\xE9 en 1891 \xE0 Heidenheim, Erwin Johannes Eugen Romme est le
+    g\xE9n\xE9ral des Afrika Korps surnomm\xE9 \"Le Renard du D\xE9sert\". Au cours
+    des deux guerres, ce talentueux strat\xE8ge a mont\xE9 les \xE9chelons pour devenir
+    finalement Generalfeldmarschall lors de la campagne d'Afrique du Nord.  Reconnu
+    \xE0 l'unanimit\xE9 par ses pairs comme ses ennemis, il est un officier efficace,
+    audacieux et qui a su d'adapter au d\xE9sert tout en exploitant sans piti\xE9
+    les points faibles de ceux osant se mettre en travers de sa route."
   typeUnite: 5
   LifeMax: 4
   ShieldMax: 0

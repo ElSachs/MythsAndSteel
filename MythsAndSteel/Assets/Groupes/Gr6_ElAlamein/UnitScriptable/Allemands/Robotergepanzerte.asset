@@ -13,7 +13,12 @@ MonoBehaviour:
   m_Name: Robotergepanzerte
   m_EditorClassIdentifier: 
   UnitName: Roboter-Gepanzerte
-  Description: 
+  Description: "Puisque les doctines de guerre des Afrika Korps ont \xE9t\xE9 bas\xE9es
+    sur les principes m\xEAmes de la Blitzkrieg, Rommel a assez vite propos\xE9 \xE0
+    son \xE9tat major d'ajouter un transport de troupes efficace \xE0 son arm\xE9e
+    d'automates. Le ch\xE2ssis de base du SdKfZ a ainsi \xE9t\xE9 adapt\xE9 pour
+    acceuillir le plus d'automates possibles et les prot\xE9ger un maximum avant
+    leur arriv\xE9e sur le champ de bataille. "
   typeUnite: 1
   LifeMax: 4
   ShieldMax: 0

@@ -13,7 +13,12 @@ MonoBehaviour:
   m_Name: 8th Corps
   m_EditorClassIdentifier: 
   UnitName: 8th Corps
-  Description: 
+  Description: "Si les forces allemandes disposent de troupes m\xE9canis\xE9es \xE0
+    la fois fortes et fiables, les britanniques privil\xE9gient l'exp\xE9rience et
+    la prise d'initiative de leurs v\xE9t\xE9rans. Ainsi, les soldats de la Huiti\xE8me
+    Arm\xE9e disposent d'un \xE9quipement classique de soldat agr\xE9ment\xE9 d'un
+    paquetage dorsal permettant \xE0 son utilisateur d'utiliser un puissant fusil
+    \xE9lectrique. "
   typeUnite: 0
   LifeMax: 2
   ShieldMax: 0

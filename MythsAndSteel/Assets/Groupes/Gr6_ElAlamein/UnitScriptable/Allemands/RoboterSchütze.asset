@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: "RoboterSch\xFCtze"
   m_EditorClassIdentifier: 
   UnitName: "Robotersch\xFCtze"
-  Description: 
+  Description: "Cr\xE9\xE9 par les industries Krupp, ce m\xE9cha est un des atouts
+    principaux de l'avanc\xE9e Allemande en Afrique du Nord, alliant une adaptabilit\xE9
+    mortelle \xE0 une grande r\xE9sistance. "
   typeUnite: 5
   LifeMax: 5
   ShieldMax: 0

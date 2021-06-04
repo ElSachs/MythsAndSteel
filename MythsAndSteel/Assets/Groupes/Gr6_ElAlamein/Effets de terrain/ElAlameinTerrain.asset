@@ -32,7 +32,7 @@ MonoBehaviour:
       2 Ressources. Une unit\xE9 dans un bunker subit 1 point de d\xE9g\xE2t de moins
       par attaque."
     _eventType: 1d000000
-    render: {fileID: 6222823821224107078, guid: cf0a4f14231f3084dbaa83c3706b5a15, type: 3}
+    render: {fileID: 21300000, guid: 6c8d62e1836cc554aa28948a8fc8ce32, type: 3}
     MustBeInstantiate: 1
     Child: {fileID: 2443697204554867568, guid: c7d54ebbb84c4cb47a480d8d45721c1b, type: 3}
   - _terrainName: Cabane Isatabu
@@ -53,7 +53,7 @@ MonoBehaviour:
   - _terrainName: Eau
     _description: Case inaccessible en temps normal.
     _eventType: 08000000
-    render: {fileID: 0}
+    render: {fileID: 21300000, guid: 2e3bfd1b04c7e4648abeeca45b80b16f, type: 3}
     MustBeInstantiate: 1
     Child: {fileID: 0}
   - _terrainName: Fleuve
@@ -96,7 +96,7 @@ MonoBehaviour:
   - _terrainName: Mont
     _description: "Consomme 2 D\xE9placements pour se d\xE9placer sur cette case."
     _eventType: 06000000
-    render: {fileID: 0}
+    render: {fileID: 21300000, guid: 9602a938cc4b7a444b37fa1f726a774f, type: 3}
     MustBeInstantiate: 1
     Child: {fileID: 0}
   - _terrainName: "Plage\v"
@@ -110,7 +110,7 @@ MonoBehaviour:
     _description: "Case inaccessible de base, mais des unit\xE9s subissant un Recul
       Forc\xE9 peuvent y aller, \xE9tant tu\xE9 instantan\xE9ment."
     _eventType: 07000000
-    render: {fileID: 0}
+    render: {fileID: 21300000, guid: eb0db4c372fc66449b945c2bc2433dd6, type: 3}
     MustBeInstantiate: 1
     Child: {fileID: 0}
   - _terrainName: "Rivi\xE8re"
@@ -131,7 +131,7 @@ MonoBehaviour:
     _description: "A chaque Phase Strat\xE9gique, les unit\xE9s sur cette case r\xE9coltent
       1 Ressource pour leur propri\xE9taire."
     _eventType: 1b000000
-    render: {fileID: 0}
+    render: {fileID: 21300000, guid: 278a21af4c1436446a7f445a031d5bcb, type: 3}
     MustBeInstantiate: 1
     Child: {fileID: 4352697046244975141, guid: 2adb593949e96894b812049505a55b73, type: 3}
   - _terrainName: Pt. Objectif
@@ -179,14 +179,14 @@ MonoBehaviour:
   - _terrainName: Sol
     _description: Case de base, sans effet.
     _eventType: 00000000
-    render: {fileID: 0}
+    render: {fileID: 21300000, guid: a531c2dcea5afdd48ab571f53366bb9e, type: 3}
     MustBeInstantiate: 0
     Child: {fileID: 0}
   - _terrainName: Usine
     _description: "Permet la cr\xE9ation d'unit\xE9 sur sa case ou celles adjacentes.
       clic droit dessus permet l\u2019ouverture du Menu Renfort."
     _eventType: 190000001a000000
-    render: {fileID: 0}
+    render: {fileID: 21300000, guid: a5507aa193c797b4a99f24ba9ce22fa9, type: 3}
     MustBeInstantiate: 0
     Child: {fileID: 0}
   - _terrainName: "Village Fortifi\xE9"
@@ -229,12 +229,12 @@ MonoBehaviour:
   - _terrainName: Objectif Rouge
     _description: "Case \xE0 capturer pour faire gagner l'\xE9quipe Rouge"
     _eventType: 29000000
-    render: {fileID: 0}
+    render: {fileID: 21300000, guid: 815aa84be316d0e44a67b1dfae12c377, type: 3}
     MustBeInstantiate: 1
     Child: {fileID: 0}
   - _terrainName: Objectif Bleu
     _description: "Case \xE0 capturer pour faire gagner l'\xE9quipe Bleu"
     _eventType: 2a000000
-    render: {fileID: 0}
+    render: {fileID: 21300000, guid: b2bb333321c60744395be47760b64e4e, type: 3}
     MustBeInstantiate: 1
     Child: {fileID: 0}

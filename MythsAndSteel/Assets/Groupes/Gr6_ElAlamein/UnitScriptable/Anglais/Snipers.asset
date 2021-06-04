@@ -13,7 +13,12 @@ MonoBehaviour:
   m_Name: Snipers
   m_EditorClassIdentifier: 
   UnitName: 8th Royal Commando Corps
-  Description: 
+  Description: "Pour \xE9pauler les forces d'infanterie britannique, un corps de
+    tireurs d'\xE9lite les accompagne \xE9quip\xE9 de fusils de haute pr\xE9cision
+    capables de percer le blindage des unit\xE9s les plus mieux \xE9quip\xE9es. Cette
+    unit\xE9 est autant dissuasive qu'efficace puisque le simple fait de se savoir
+    vis\xE9 par ces sp\xE9cialistes suffit \xE0 faire fuir les unit\xE9s ennemies,
+    leur faisant commettre des erreurs fatales. "
   typeUnite: 0
   LifeMax: 2
   ShieldMax: 0
