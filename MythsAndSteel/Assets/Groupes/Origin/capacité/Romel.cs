@@ -102,7 +102,7 @@ public class Romel : Capacity
         }
         GetComponent<Animator>().runtimeAnimatorController = TransformationRomelAnimator;
         ShadowRomel.GetComponent<SpriteRenderer>().sprite = Shadow;
-        GetComponent<UnitScript>().UpdateLifeHeartShieldUI(GameManager.Instance.IsPlayerRedTurn ? UIInstance.Instance.RedHeartSprite : UIInstance.Instance.BlueHeartSprite,GetComponent<UnitScript>().Life);
+        GetComponent<UnitScript>().UpdateLifeHeartShieldUI(GameManager.Instance.IsPlayerRedTurn ? UIInstance.Instance.RedHeartSprite : UIInstance.Instance.BlueHeartSprite,GetComponent<UnitScript>().UnitSO.LifeMax);
      
         Destroy(GetComponent<Romel>());
     }
